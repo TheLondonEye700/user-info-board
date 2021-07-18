@@ -1,0 +1,42 @@
+.user {
+    flex: 0 1 21%;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 1px 1px rgb(20 23 28 / 10%), 0 3px 1px 0 rgb(20 23 28 / 10%);
+}
+
+.user_container {
+    padding: 20px 10px;
+    text-align: center;
+    min-width: 115px;
+}
+
+.user_profile {
+    background-color: rgb(235, 231, 231);
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.user_name {
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.user_id {
+    font-style: italic;
+    color: grey;
+    font-size: 14px;
+    margin-top: 1px;
+}
+
+.user_mail {
+    color: rgb(51, 102, 187);
+    text-decoration: underline;
+    font-size: 14px;
+    cursor: pointer;
+}
