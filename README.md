@@ -6,7 +6,7 @@ This web-based app is built with React [Create React App](https://github.com/fac
 
 On terminal, install `npm install react-router-dom`, then run `npm-start` to see application on local host.
 
-For live demo, visit
+For live demo, visit: https://clever-golick-fed409.netlify.app/
 
 ## Reference
 
